@@ -1,0 +1,40 @@
+@media all and (max-width:670px ){
+.top-wrapper h1{
+text-align:center;
+font-size:24px;
+}
+.top-wrapper img{
+width:100%;
+}
+.top-wrapper h2{
+text-align:center;
+font-size:14px;
+}
+.second-wrapper{
+width:100%;
+}
+
+.btn-wrapper{
+width:100%;
+}
+.sample-wrapper{
+display:none;
+}
+.sub-wrapper{
+width:100%
+}
+.footer-logo{
+text-align:center;
+}
+.mail-wrapper h1{
+text-align:center;
+font-size:24px;
+}
+address{
+  text-align:center
+}
+.profile-title h2{
+  text-align:center;
+  font-size:14px;
+  }
+}
