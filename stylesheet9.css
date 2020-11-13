@@ -1,8 +1,13 @@
+*{
+ box-sizing:border-box;
+}
+
 body{
  font-style:"Avenir Next";
  margin:0;
  }
  .container{
+ max-width:1170px;
 width:100%
 }
 
