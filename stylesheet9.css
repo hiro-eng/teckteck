@@ -4,6 +4,8 @@
 
 body{
  font-style:"Avenir Next";
+ max-width:1170px;
+ width:100px;
  margin:0;
  }
  .container{
