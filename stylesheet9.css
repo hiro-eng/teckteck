@@ -1,0 +1,162 @@
+body{
+ font-style:"Avenir Next";
+ margin:0;
+ }
+ .container{
+width:100%
+}
+
+li{
+ padding:40px 20px;
+ float:left;
+ list-style:none;
+ }
+
+.header{
+  color:white;
+  background-color:#00cccc;
+  height:110px;
+}
+
+.header-logo{
+ font-size:50px;
+ font-weight:bold;
+ float:left;
+ margin:20px 20px;
+}
+
+.header-list{
+ float:right;
+ font-weight:bold;
+}
+.top-wrapper{
+ animation-name:fadein;
+ animation-duration:2s;
+}
+@keyframes fadein{
+ from{
+ opacity:0;
+transform:translateY(30px);
+}
+to{
+ opacity:1;
+ transform:translateX(0);
+}
+}
+
+.top-wrapper h1{
+opacity:0.9;
+border-bottom:3px solid #99cccc;
+margin-left:20px;
+}
+
+.top-wrapper img{
+  margin: 0px 15px;
+}
+
+.top-wrapper h2{
+  float:right;
+  font-size:36px
+  opacity:0.9;
+  border-bottom:3px solid #99cccc;
+}
+
+ .second-wrapper{
+   margin-top:40px;
+   margin-right:auto;
+   margin-left:auto;
+   text-align:center;
+ }
+
+ .section-title{
+   text-align:center;
+   font-weight:bold;
+   font-size:32px;
+   background-color:#ffff66;
+   width:300px;
+   margin-left:auto;
+   margin-right:auto;
+ }
+.text-contents{
+   background-color:#ffff66;
+   width:500px;
+   text-align:center;
+   margin-left:auto;
+   margin-right:auto;
+   padding:5px 5px 5px 5px;
+   margin-bottom:35px;
+}
+ .btn-wrapper{
+    text-align:center;
+  }
+
+
+.btn-message{
+ background-color:#ffff66;
+ margin-right:auto;
+ margin-left:auto;
+ width:500px;
+ padding:5px 5px 5px 5px;
+
+}
+
+.btn_design4{
+ font-size:28px;
+ width:150px;
+ margin-left:auto;
+ margin-right:auto;
+ margin-top:40px;
+ text-align:center;
+ font-weight:bold;
+ padding:20px 15px;
+ color:#00cccc;
+ border:2px solid #00cccc;
+ -webkit-box-sizing:border-box;
+ -moz-box-sizing:border-box;
+ box-sizing:border-box;
+ -webkit-transition:all .1s;
+ transition:all .1s;
+}
+
+.btn_design4:hover{
+ background-color:transparent;
+ border:2px solid #ff9933;
+ color:#ff9933;
+ cursor:wait;
+}
+
+
+
+ .subtext{
+  text-align:center;
+  background-color:#ffff66;
+   margin-right:auto;
+   margin-left:auto;
+   width:520px;
+   padding:5px 5px 5px 5px;
+}
+ 
+  .sample-wrapper{
+  position:fixed;
+  text-align:left;
+  bottom:0px;
+  left:0px;
+
+  }
+
+.footer{
+color:white;
+background-color:#00cccc;
+height:110px;
+}
+
+.footer-logo{
+ float:right;
+ font-weight:bold;
+ font-size:30px;
+ padding:5px 20px 30px 20px;
+}
+.footer-text1{
+ 
+  
+}
