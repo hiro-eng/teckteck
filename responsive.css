@@ -2,6 +2,12 @@
  header{
    width:100%;
   }
+.header{
+ width:100%;
+ }
+ .header-logo{
+  text-align:center;
+ }
 .top-wrapper h1{
 text-align:center;
 font-size:24px;
@@ -27,7 +33,7 @@ display:none;
 .sub-wrapper{
 width:100%
 }
-footer{
+.footer{
   width:100%;
   }
   
