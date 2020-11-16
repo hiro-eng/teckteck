@@ -43,7 +43,7 @@ li{
 @keyframes fadein{
  from{
  opacity:0;
-transform:translateY(30px);
+transform:translateX(40px);
 }
 to{
  opacity:1;
