@@ -36,7 +36,7 @@ li{
  float:right;
  font-weight:bold;
 }
-.top-wrapper{
+.main{
  animation-name:fadein;
  animation-duration:4s;
 }
